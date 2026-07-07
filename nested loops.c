@@ -2,7 +2,7 @@
 
 int main(){
    
-    
+    int columns=0;
   int rows=0;
   int columns=0;
   char symbol='\0';
